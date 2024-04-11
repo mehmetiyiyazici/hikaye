@@ -1,0 +1,14 @@
+/Users/mehmetiyiyazici/Documents/works/hikaye/bin/Debug/net8.0/hikaye
+/Users/mehmetiyiyazici/Documents/works/hikaye/bin/Debug/net8.0/hikaye.deps.json
+/Users/mehmetiyiyazici/Documents/works/hikaye/bin/Debug/net8.0/hikaye.runtimeconfig.json
+/Users/mehmetiyiyazici/Documents/works/hikaye/bin/Debug/net8.0/hikaye.dll
+/Users/mehmetiyiyazici/Documents/works/hikaye/bin/Debug/net8.0/hikaye.pdb
+/Users/mehmetiyiyazici/Documents/works/hikaye/obj/Debug/net8.0/hikaye.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetiyiyazici/Documents/works/hikaye/obj/Debug/net8.0/hikaye.AssemblyInfoInputs.cache
+/Users/mehmetiyiyazici/Documents/works/hikaye/obj/Debug/net8.0/hikaye.AssemblyInfo.cs
+/Users/mehmetiyiyazici/Documents/works/hikaye/obj/Debug/net8.0/hikaye.csproj.CoreCompileInputs.cache
+/Users/mehmetiyiyazici/Documents/works/hikaye/obj/Debug/net8.0/hikaye.dll
+/Users/mehmetiyiyazici/Documents/works/hikaye/obj/Debug/net8.0/refint/hikaye.dll
+/Users/mehmetiyiyazici/Documents/works/hikaye/obj/Debug/net8.0/hikaye.pdb
+/Users/mehmetiyiyazici/Documents/works/hikaye/obj/Debug/net8.0/hikaye.genruntimeconfig.cache
+/Users/mehmetiyiyazici/Documents/works/hikaye/obj/Debug/net8.0/ref/hikaye.dll
